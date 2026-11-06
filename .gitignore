@@ -1,0 +1,11 @@
+# This repo is PUBLIC. Only the decrypt page + encrypted enc/*.bin belong here.
+# Never commit anything that could hold secrets or raw rider data:
+manifest.csv
+qr/
+riders.csv
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.csv
+__pycache__/
